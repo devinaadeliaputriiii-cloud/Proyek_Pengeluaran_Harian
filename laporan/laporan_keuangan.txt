@@ -1,0 +1,11 @@
+LAPORAN PENGELUARAN HARIAN
+
+Jumlah transaksi: 3
+Total pengeluaran: Rp58,000
+Rata-rata pengeluaran: Rp19,333
+Transaksi besar: 1
+
+DAFTAR TRANSAKSI DARI NOMINAL TERBESAR
+2026-10-01 | Makan | Rp25,000 | Makan siang
+2026-10-03 | Makan | Rp18,000 | Sarapan
+2026-10-02 | Transportasi | Rp15,000 | Ojek kampus
