@@ -1,0 +1,3 @@
+2026-10-01;Makan;25000.0;Makan siang
+2026-10-02;Transportasi;15000.0;Ojek kampus
+2026-10-03;Makan;18000.0;Sarapan
